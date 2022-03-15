@@ -1,7 +1,7 @@
 {
-  "name": "souncloud",
+  "name": "sound-heaven",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "music.js",
   "license": "MIT",
   "dependencies": {
     "fs": "^0.0.1-security",
